@@ -44,7 +44,7 @@ Go programming language (version 1.17 or higher) installed. You can download and
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/punyGo.git
+   git clone https://github.com/bistutu/punyGo.git
    cd punyGo
    ```
 
