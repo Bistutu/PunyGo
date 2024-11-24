@@ -43,7 +43,7 @@ PunyGo 是一个用 Go 语言实现的极简编程语言，用于方便开发者
 1. **克隆仓库：**
 
    ```bash
-   git clone https://github.com/yourusername/punyGo.git
+   git clone https://github.com/bistutu/punyGo.git
    cd punyGo
    ```
 
